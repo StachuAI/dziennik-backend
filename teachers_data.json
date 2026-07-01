@@ -1,0 +1,434 @@
+[
+  {
+    "imie": "Stanisław Rzątkowski",
+    "przedmiot": "Wiedza ogólna",
+    "role": "teacher",
+    "special": true
+  },
+  {
+    "imie": "Helena Rzątkowska",
+    "przedmiot": "do uzupełnienia",
+    "role": "teacher",
+    "special": true
+  },
+  {
+    "imie": "Hanna Andrynowska",
+    "przedmiot": "Język polski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Piotr Andrynowski",
+    "przedmiot": "Fizyka, informatyka, technika",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Iwona Baranowska",
+    "przedmiot": "Język polski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Mateusz Boroń",
+    "przedmiot": "Wychowanie fizyczne",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Krzysztof Chudak",
+    "przedmiot": "Historia, WoS, edukacja dla bezpieczeństwa",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Aldona Cichocka",
+    "przedmiot": "Matematyka, technika",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Anna Czajka",
+    "przedmiot": "Nauczyciel współorganizujący kształcenie",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Rozalia Dekiert",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Małgorzata Domagała",
+    "przedmiot": "Świetlica",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Olga Domagała",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Paulina Gembiak",
+    "przedmiot": "Nauczyciel współorganizujący, rewalidacja",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Katarzyna Grocka",
+    "przedmiot": "Edukacja wczesnoszkolna, logopedia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Magdalena Habernik-Tomowiak",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Honorata Jagodzik",
+    "przedmiot": "Nauczyciel wspomagający",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Agnieszka Jankowska",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Monika Janowicz",
+    "przedmiot": "Historia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Renata Kamieniarz",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Iwona Kamińska",
+    "przedmiot": "Świetlica",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Olga Konys",
+    "przedmiot": "Pedagogika specjalna, psychologia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Marzena Kowalczyk",
+    "przedmiot": "Świetlica",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Marlena Kowalska",
+    "przedmiot": "Język angielski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Agata Kulus",
+    "przedmiot": "Język polski",
+    "role": "vice_director",
+    "special": false
+  },
+  {
+    "imie": "Mateusz Kuśnierczak",
+    "przedmiot": "Język angielski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Anna Maćkowiak",
+    "przedmiot": "Matematyka",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Aneta Matuszczak",
+    "przedmiot": "Chemia, biologia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Karol Marciniak",
+    "przedmiot": "Wychowanie fizyczne",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Agnieszka Matuszkowiak",
+    "przedmiot": "Język angielski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Daria Mielcarek",
+    "przedmiot": "Język angielski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Hanna Mielcarek",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Ilona Mueller",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Olena Nowak",
+    "przedmiot": "Edukacja wczesnoszkolna, biblioteka",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Anna Nowicka",
+    "przedmiot": "Język angielski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Joanna Pawlicka",
+    "przedmiot": "Język polski",
+    "role": "vice_director",
+    "special": false
+  },
+  {
+    "imie": "Barbara Perz",
+    "przedmiot": "Matematyka",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Barbara Piekarska",
+    "przedmiot": "Biologia, informatyka, geografia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Dagmara Piątek",
+    "przedmiot": "Edukacja wczesnoszkolna, biblioteka",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Magdalena Plewka",
+    "przedmiot": "Język angielski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Robert Plewka",
+    "przedmiot": "Wychowanie fizyczne",
+    "role": "director",
+    "special": false
+  },
+  {
+    "imie": "Żaneta Prajs",
+    "przedmiot": "Religia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Ryszard Primel",
+    "przedmiot": "Wychowanie fizyczne",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Alicja Przybyłek",
+    "przedmiot": "Plastyka, technika",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Dominika Rusek",
+    "przedmiot": "Biologia, przyroda, nauczyciel wspomagający",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Ilona Rząsa",
+    "przedmiot": "Język polski, historia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Krystyna Schulz",
+    "przedmiot": "Edukacja wczesnoszkolna, przyroda",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Miriam Siejek",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Joanna Skrzypczak",
+    "przedmiot": "Informatyka, matematyka",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Anna Smelkowska",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Joanna Spalony",
+    "przedmiot": "Edukacja wczesnoszkolna, terapia pedagogiczna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Hanna Spławska-Dobroń",
+    "przedmiot": "Geografia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Danuta Strzelczyk",
+    "przedmiot": "Wychowanie fizyczne",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Izabella Szablewska",
+    "przedmiot": "Doradztwo zawodowe, nauczyciel wspomagający",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Kinga Szczerbal",
+    "przedmiot": "Matematyka",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Wiktoria Szejn",
+    "przedmiot": "Język angielski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Agnieszka Szmytowicz",
+    "przedmiot": "Język polski",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Monika Szudra",
+    "przedmiot": "Religia, wychowanie do życia w rodzinie, historia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Małgorzata Szymańska",
+    "przedmiot": "Muzyka, plastyka, świetlica",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Ewelina Świdzińska",
+    "przedmiot": "Wychowanie do życia w rodzinie, nauczyciel wspomagający",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Marta Tomczak",
+    "przedmiot": "Terapia pedagogiczna, nauczyciel wspomagający",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Michał Tomczak",
+    "przedmiot": "Wychowanie fizyczne, technika",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Izabela Wajske",
+    "przedmiot": "Pedagogika",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Wojciech Wieczorek",
+    "przedmiot": "Wychowanie fizyczne",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Rita Wielińska",
+    "przedmiot": "Język niemiecki, świetlica",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Aldona Wleklik",
+    "przedmiot": "Religia, logopedia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Iwona Włoch-Cieślik",
+    "przedmiot": "Matematyka, informatyka",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Magdalena Woś",
+    "przedmiot": "Język polski, logopedia",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Monika Woźniak",
+    "przedmiot": "Nauczyciel wspomagający",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Magdalena Zimniak",
+    "przedmiot": "Edukacja wczesnoszkolna",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Dorota Żak",
+    "przedmiot": "Edukacja wczesnoszkolna, świetlica",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Agnieszka Malcherek-Felerska",
+    "przedmiot": "Świetlica",
+    "role": "teacher",
+    "special": false
+  },
+  {
+    "imie": "Izabela Jankowska",
+    "przedmiot": "Biblioteka",
+    "role": "teacher",
+    "special": false
+  }
+]
