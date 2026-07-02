@@ -495,8 +495,24 @@ app.get("/api/stats/school", requireAuth, requireDirection, (req, res) => {
 // ═══════════════════════════════════════════════════════════════════════════
 app.get("/api/health", (req, res) => res.json({ ok: true, time: new Date().toISOString() }));
 
+// ── Auto-seed: jeśli baza jest pusta (0 nauczycieli) — wypełnij automatycznie ──
+function autoSeed() {
+  try {
+    const count = db.prepare("SELECT COUNT(*) AS c FROM teachers").get().c;
+    if (count > 0) {
+      console.log(`🌳 Baza danych gotowa — ${count} nauczycieli w systemie.`);
+      return;
+    }
+    console.log("🌳 Pusta baza — uruchamiam automatyczny seed...");
+    require("./seed.js");
+  } catch (e) {
+    console.error("Błąd auto-seed:", e.message);
+  }
+}
+
 app.listen(PORT, () => {
   console.log(`\n🌳 e-Dziennik backend działa: http://localhost:${PORT}`);
   console.log(`   Sprawdź: http://localhost:${PORT}/api/health`);
   console.log(`   Baza danych: ${process.env.DB_PATH || "./data/dziennik.db"}\n`);
+  autoSeed();
 });
